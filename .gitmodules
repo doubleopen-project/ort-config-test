@@ -1,0 +1,3 @@
+[submodule "ort-config-test-sm"]
+	path = ort-config-test-sm
+	url = https://github.com/doubleopen-project/ort-config-test-sm.git
